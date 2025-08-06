@@ -89,7 +89,7 @@ body {
   justify-content: center;
   align-items: center;
   font-family: Roboto;
-  color: #929292;
+  color: #FFD8DB;
 }
 
 .f-box {
@@ -119,4 +119,5 @@ body {
     height: 330px;
     width: 230px;
 }
+
 }
